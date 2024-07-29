@@ -40,10 +40,7 @@ E-mail : therohitjagan@gmail.com
 ![Static Badge](https://img.shields.io/badge/LinkedIn-r%3A%207%2C%20g%3A%2098%2C%20b%3A%20200?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Flinkedin.com%2Ftherohitjagan)
 ![Static Badge](https://img.shields.io/badge/-grey?style=for-the-badge&logo=x&logoColor=white&link=https%3A%2F%2Fx.com%2Ftherohitjagan)
 ![Static Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ftelegram.me%2Ftherohitjagan)
-![Static Badge](https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Finstagram.com%2Ftherohitjagan)
-
-
-
+<a href="https://instagram.com/therohitjagan"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Finstagram.com%2Ftherohitjagan"></a>
 
 
 [![Hits](https://hits.sh/github.com/therohitjagan/therohitjagan.svg?style=for-the-badge&label=Profile%20View&color=e05d44)](https://hits.sh/github.com/therohitjagan/therohitjagan/)
