@@ -27,18 +27,22 @@ Flutter, React Native.
 Heroku, AWS, Google Cloud, GitHub, Git, GitLab, Cloudflare Pages, Cloudflare, Figma, Play Console.
 
 ## Databases: 
-MySQL, Firebase.
+![Static Badge](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white) ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Working with: 
-Android Studio, Visual Studio, Unity 3d, Adobe XD.
+![Static Badge](https://img.shields.io/badge/Android_Studio-50c878?style=for-the-badge&logo=android&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white) ![Static Badge](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 
 ## Contact me :
 
 E-mail : therohitjagan@gmail.com
 
-Twitter: https://twitter.com/therohitjagan
-Telegram: https://telegram.me/therohitjagan
-Instagram: https://instagram.com/therohitjagan
+![Static Badge](https://img.shields.io/badge/LinkedIn-r%3A%207%2C%20g%3A%2098%2C%20b%3A%20200?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Flinkedin.com%2Ftherohitjagan)
+![Static Badge](https://img.shields.io/badge/-grey?style=for-the-badge&logo=x&logoColor=white&link=https%3A%2F%2Fx.com%2Ftherohitjagan)
+![Static Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ftelegram.me%2Ftherohitjagan)
+![Static Badge](https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Finstagram.com%2Ftherohitjagan)
+
+
 
 
 
