@@ -56,7 +56,7 @@ I'm passionate about continuous learning and innovation. My primary focus is to 
 
 E-mail : therohitjagan@gmail.com
 
-<a href="https://linkedin.com/therohitjagan"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://in.linkedin.com/in/therohitjagan"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://x.com/therohitjagan"><img alt="Static Badge" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 <a href="https://telegram.me/therohitjagan"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://instagram.com/therohitjagan"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Finstagram.com%2Ftherohitjagan"></a>
 
